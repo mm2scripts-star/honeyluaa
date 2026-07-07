@@ -1,1 +1,2 @@
-
+- sub :)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2scripts-star/mm2pdv/refs/heads/main/honeylua"))()
